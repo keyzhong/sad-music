@@ -1,0 +1,5 @@
+{
+  "javascript.format.insertSpaceBeforeFunctionParenthesis":true,
+  "singleQuote": true,
+  "semi": false
+}
